@@ -1,7 +1,11 @@
 ## data_analysis_notes
-数据分析学习笔记，包括numpy、pandas、matplotlib、Seaborn库学习笔记，以及数据挖掘及分析实例
+
+数据分析学习笔记，包括 `numpy、pandas、matplotlib、Seaborn` 库学习笔记，以及数据挖掘及分析实例。
+
 ## seaborn类别图
+
 seaborn一共有5个大类21种图，分别是：
+
 + Relational plots　关系类图表
     1. replot() 关系类图表，其实是下面两种图的集成，通过指定kind参数可以画出下面的两种图
     2. scatterplot() **散点图**
@@ -31,4 +35,5 @@ seaborn一共有5个大类21种图，分别是：
     2. clustermap() 聚集图
 
 ## 参考资料
+
 [Pandas基本操作指南-2天学会pandas](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484378&amp;idx=1&amp;sn=d9d94b98e3087ccb8605cea5e2de2a4c&source=41#wechat_redirect)
